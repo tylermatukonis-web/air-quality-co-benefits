@@ -1,0 +1,18 @@
+SCC,NEMS_sector
+10100000,electric power
+20100000,electric power
+10100100,electric power-coal
+10100200,electric power-coal
+10100300,electric power-coal
+2101001000,electric power-coal
+2101002000,electric power-coal
+2101003000,electric power-coal
+10100600,electric power-natural gas
+20100200,electric power-natural gas
+2101006000,electric power-natural gas
+10100500,electric power-petroleum
+20100100,electric power-petroleum
+2101004000,electric power-petroleum
+10100400,electric power-petroleum
+2101005000,electric power-petroleum
+10101000,electric power-natural gas
